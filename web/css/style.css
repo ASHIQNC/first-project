@@ -1,0 +1,28 @@
+.demo{
+     background-color: red;
+     width: 100%;
+     height: 100px;
+
+}
+.demo:hover{
+
+background-color: blue;
+
+}
+.row{
+background-color: green;
+width: 100%;
+     height: 100px;
+
+
+}
+
+.row:hover{
+     background-color:yellow;
+
+
+
+}
+table{
+     border-collapse: collapse;
+}

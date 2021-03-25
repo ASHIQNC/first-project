@@ -1,0 +1,19 @@
+.demo{
+     float: left;
+}
+.home{
+     float: left;
+     width: 50%;
+}
+.about{
+     float: left;
+}
+.contact{
+     float: left;
+}
+.con{
+     float: left;
+     margin-left: 324%;
+     margin-top: -37%;
+
+}

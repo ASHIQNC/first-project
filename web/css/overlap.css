@@ -1,0 +1,26 @@
+div{
+     width: 150px;
+     height: 150px;
+}
+.div1{
+     
+     background-color: red;
+     position: relative;
+     top: 262%;
+     left: 40%;
+
+}
+.div2{
+     background-color: royalblue;
+     position: absolute;
+     top: 162%;
+     left: 40%;
+}
+.div3{
+     background-color: gray;
+     position: absolute;
+     top: 162%;
+     left: 40%;
+     top: 75%;
+    
+}
